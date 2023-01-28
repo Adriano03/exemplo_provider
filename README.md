@@ -4,5 +4,4 @@ Projeto Flutter - Exemplo Provider
 
 ## Getting Started
 
-- Exemplo de uso Provider;
-- Comparação com o inheritWidget
+- Exemplo simples de uso do Provider com o MultiProvider;
